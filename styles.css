@@ -3,7 +3,7 @@
 .holder {
   display: flex;
   flex-wrap: wrap; /* Wrap items to the next row when necessary */
-  justify-content: space-around; /* Space between elements */
+  justify-content: space-between; /* Space between elements */
 }
 
 .item {
